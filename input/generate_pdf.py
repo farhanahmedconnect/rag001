@@ -13,7 +13,7 @@ import sys
 # Configuration
 # ---------------------------------------------------------------------------
 OUTPUT_PDF = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                          "health_claims_rules.pdf")
+                          "document.pdf")
 IMG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "images")
 
 IMAGES = {
